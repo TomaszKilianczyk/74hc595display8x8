@@ -2,7 +2,7 @@
  * hc    atmega8    F_CPU = 16000000 Hz
  * 
  * Created on: 29.07.2023
- *     Author: Tomasz Kilinczyk
+ *     Author: Tomasz Kilianczyk
 */
 
 #ifndef HC_
